@@ -59,6 +59,7 @@ fun main() {
     }
 
      */
+    /*
 //Problema 5
     print("Ingrese un número:")
     val num: Int= readln().toInt()
@@ -67,4 +68,5 @@ fun main() {
     }else{
         println("El número tiene 1 dígito.")
     }
+    */
 }
