@@ -11,8 +11,8 @@ fun main(){
     println("La suma de $valor1 y $valor2 es $suma")
     val producto= valor1*valor2
     println("El producto de $valor1 y $valor2 es $producto")
+*/
 
- */
 /*
     //problema 2
     print("Ingrese el valor de los lados del cuadrado:")
@@ -29,9 +29,9 @@ fun main(){
     val cantidad= readln().toInt()
     val abonar= precio*cantidad
     println("El comprador debe abonar $abonar")
-     */
+    */
   /*
-    //problema 5
+    //problema 4
     print("Ingrese el primer valor:")
     val valor1= readln().toInt()
     print("Ingrese el segundo valor:")
@@ -44,6 +44,7 @@ fun main(){
     val producto= valor1*valor2*valor3*valor4
     println("La suma de los 4 valores es de $suma y el producto es $producto")
     */
+
     //problema 5
     print("Ingrese el primer valor:")
     val valor1= readln().toInt()
