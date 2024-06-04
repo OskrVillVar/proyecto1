@@ -1,0 +1,2 @@
+class Condiciones_compuestas {
+}
