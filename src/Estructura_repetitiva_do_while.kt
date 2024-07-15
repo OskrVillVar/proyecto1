@@ -32,6 +32,7 @@ fun main(){
             print("No se ingresaron datos")
     }
     */
+    /*
     var cantidad_inferior = 0
     var cantidad_superior = 0
     var cantidad_adecuada = 0
@@ -41,7 +42,7 @@ fun main(){
         if (peso>10.2)
             cantidad_superior++
         else
-            if (peso>=9.8 && peso <= 10.2)
+            if (peso >=9.8 && peso <= 10.2)
                 cantidad_adecuada++
         else
             cantidad_inferior++
@@ -51,4 +52,40 @@ fun main(){
     println("Piezas peso inferior a 9.8: $cantidad_inferior")
     val suma = cantidad_adecuada + cantidad_inferior + cantidad_superior
     println("Cantidad de piezas procesadas: $suma")
-}
+    */
+    //Problema propuesto 1
+   /*
+    var sumas = 0
+    do{
+        print("Ingrese el valor: ")
+    val uwu = readln().toInt()
+
+        if (uwu != 9999) {
+        sumas += uwu
+    }
+}while (uwu != 9999)
+println("La suma de valores es $sumas")
+    if (sumas < 0 )
+        print("El número es menor a cero")
+    else
+        if (sumas > 0)
+            print("El número es mayor a cero")
+    else
+        print("El número es 0")
+    */
+    //Problema propuesto 2
+    /*
+    print("Ingrese su número de cuenta: ")
+    val cuenta = readln().toInt()
+    print("Ingrese el saldo de su cuenta: ")
+    val saldo = readln().toDouble()
+    println("Número de cuenta: $cuenta")
+    if (saldo>0)
+        println("Su cuenta es acredora con $saldo")
+    else
+        if (saldo<0)
+            println ("Su cuenta es deudora")
+    else
+        println ("Su cuenta es nula")
+     */
+    }
